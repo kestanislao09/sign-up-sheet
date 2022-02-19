@@ -11,3 +11,10 @@ https://twitter.com/click_burgundy/status/1458077285014286341
  - Use newly acquired knowledge of HTML/CSS to create a mock sign-up page.
    - Forms and styling
    - Backgrounds, opacity, and postitioning
+
+
+# UPDATES
+
+## 2/19/22 0426
+
+Started the project, acquired the resources for it, and made the basic HTML. Started on some CSS stuff and thats all thats really left to do with this. *not bad* if I may say so myself. Positioning is something worth getting used to, along with getting everything to be proper sizes when the browser size is changed. This is definitely a good start though.
