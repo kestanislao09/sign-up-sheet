@@ -22,3 +22,7 @@ Started the project, acquired the resources for it, and made the basic HTML. Sta
 ## 2/20/22 0425
 
 Continuing with the CSS styling. Finished the left side, and styled the right-side paragraphs + the form. Almost done with this one! Should be done with this by the end of my next study session. Then it's on to the rest of the intermediate HTML/CSS curriculum.
+
+## 2/22/22 0727
+
+Finished up the rest of this project last night. Styled the confirmation button and the text/link below it, along with some minor changes to the CSS, mainly adding an overflow property to the right-sided container to handle screens that don't have enough space for the form to wrap to two columns. This was a good reinforcement of the last few lessons I've gone through.
