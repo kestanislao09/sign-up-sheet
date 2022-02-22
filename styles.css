@@ -12,17 +12,18 @@ a {
 }
 
 body {
+    background: no-repeat center url("./assets/baiken.jpeg");
+    background-size: cover;
     height: 100vh;
     display: flex;
     font-family: 'Roboto', sans-serif;
-    background: no-repeat center url("./assets/baiken.jpeg");
-    background-size: cover;
     margin: 0;
 }
 
 .left-cont {
     position: relative;
-    height: 100vh;
+    position: fixed;
+    height: 100%;
     width: 40vw;
 }
 
@@ -62,6 +63,9 @@ body {
 }
 
 .right-cont{
+    overflow: scroll;
+    position: relative;
+    left: 40vw;
     background-color: rgb(241, 241, 241);
     height: 100vh;
     width: 60vw;
@@ -132,4 +136,23 @@ div > .error {
 .error-msg {
     font-size: .5rem;
     color: #c00000;
+}
+
+button {
+    border: none;
+    border-radius: 4px;
+    margin: auto auto 2.5rem 2rem;
+    padding: 1rem 2rem;
+    height: 3rem;
+    width: 15rem;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1rem;
+    background-color: rgb(247, 158, 210);
+}
+
+div.unplug {
+    margin-left: 2rem;
+    font-size: 1rem;
 }
